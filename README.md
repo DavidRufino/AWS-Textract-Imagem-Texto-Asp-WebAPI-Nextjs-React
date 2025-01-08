@@ -1,4 +1,4 @@
-# Transcrição de Imagens em Texto com AWS Textract
+# Transcrevendo uma Imagem em Texto com AWS Textract
 
 Este projeto extrai texto de imagens, utilizando a API AWS Textract. O projeto foi desenvolvido com uma arquitetura limpa (Clean Architecture) utilizando **C# ASP.NET Web API** para o backend e **Next.js/React** para o frontend.
 
