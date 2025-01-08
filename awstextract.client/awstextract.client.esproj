@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.1184077">
+  <PropertyGroup>
+    <!-- Command to run the Next.js development server -->
+    <StartupCommand>npm run dev</StartupCommand>
+
+    <!-- Root folder for Next.js test files -->
+    <JavaScriptTestRoot>src\</JavaScriptTestRoot>
+
+    <!-- Test framework for Next.js (if using Jest or similar) -->
+    <JavaScriptTestFramework>Jest</JavaScriptTestFramework>
+
+    <!-- Run the build script from package.json on Build -->
+    <ShouldRunBuildScript>false</ShouldRunBuildScript>
+
+    <!-- Production build folder for Next.js -->
+    <BuildOutputFolder>$(MSBuildProjectDirectory)\.next</BuildOutputFolder>
+
+    <!-- Command to run for a production build -->
+    <BuildCommand>npm run build</BuildCommand>
+
+    <!-- Optional: Specify the folder for the production build export -->
+    <OutputFolder>$(MSBuildProjectDirectory)\out</OutputFolder>
+  </PropertyGroup>
+</Project>

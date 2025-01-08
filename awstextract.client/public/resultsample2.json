@@ -1,0 +1,214 @@
+{
+  "textract": {
+    "extractedText": "CO. FILE DEPT. CLOCK NUMBER\r\nABC 126543 123456 12345 00000000\r\n1\r\nEarnings Statement\r\nANY COMPANY CORP.\r\nPeriod ending:\r\n7/18/2008\r\n475 ANY AVENUE\r\nPay date:\r\n7/25/2008\r\nANYTOWN USA 10101\r\nSocial Security Number: 987-65-4321\r\nTaxable Marital Status: Married\r\nJOHN STILES\r\nExemptions/Allowances:\r\n101 MAIN STREET\r\nFederal: 3. $25 Additional Tax\r\nANYTOWN, USA 12345\r\nState: 2\r\nLocal: 2\r\nEarnings\r\nrate\r\nhours\r\nthis period\r\nyear to date\r\nOther Benefits and\r\nRegular\r\n10.00\r\n32.00\r\n320.00\r\n16,640.00\r\nInformation\r\nthis period\r\ntotal to date\r\nOvertime\r\n15.00\r\n1.00\r\n15.00\r\n780.00\r\nGroup Term Life\r\n0.51\r\n27.00\r\nHoliday\r\n10.00\r\n8.00\r\n80.00\r\n4,160.00\r\nLoan Amt Paid\r\n840.00\r\nTuition\r\n37.43*\r\n1,946.80\r\nGross Pay\r\n$ 452.43\r\n23,526.80\r\nVac Hrs\r\n40.00\r\nSick Hrs\r\n16.00\r\nDeductions\r\nStatutory\r\nTitle\r\nOperator\r\nFederal Income Tax\r\n-40.60\r\n2,111.20\r\nSocial Security Tax\r\n-28.05\r\n1,458.60\r\nMedicare Tax\r\n-6.56\r\n341.12\r\nImportant Notes\r\nNY State Income Tax\r\n-8.43\r\n438.36\r\nEFFECTIVE THIS PAY PERIOD YOUR REGULAR\r\nNYC Income Tax\r\n-5.94\r\n308.88\r\nHOURLY RATE HAS BEEN CHANGED FROM $8.00\r\nNY SUI/SDI Tax\r\n-0.60\r\n31.20\r\nTO $10.00 PER HOUR\r\n&\r\nOther\r\nBond\r\n-5.00\r\n100.00\r\nWE WILL BE STARTING OUR UNITED WAY FUND\r\nPDP\r\n401(k)\r\n-28.85*\r\n1,500.20\r\nDRIVE SOON AND LOOK FORWARD TO YOUR\r\n8000\r\nStock Plan\r\n-15.00\r\n150.00\r\nPARTICIPATION\r\n2000\r\nLife Insurance\r\n-5.00\r\n50.00\r\nLoan\r\n2001\r\n-30.00\r\n150.00\r\nAdjustment\r\n00000\r\nLife Insurance\r\n+ 13.50\r\nNet Pay\r\n$291.90\r\nExcluded from federal taxable wages\r\nYour federal wages this period are $386.15\r\nESTS8E103\r\nANY COMPANY CORP.\r\nPayroll check number: 0000000000\r\n475 ANY AVENUE\r\nPay date:\r\n7/25/2008\r\nANYTOWN USA 10101\r\nSocial Security No.\r\n987-65-4321\r\nPay to the\r\norder of:\r\nJOHN STILES\r\nThis amount:\r\nTWO HUNDRED NINETY-ONE AND 90/100 DOLLARS\r\n$291.90\r\nSAMPLE\r\nNON-NEGOTIABLE\r\nBANK NAME\r\nVOID VOID VOID\r\nAUTHORIZED\r\nAuthorized\r\nSIGNATURE Signature\r\nSTREET ADDRESS\r\nCITY STATE ZIP\r\nVOID AFTER 90 DAYS\r\n001379⑈ ⑆122000496⑆4040110157⑈\r\nTHEORIGINALDOCUMENTHASAREFLECTIVEWATERMARKONTHEBAOK.\r\n",
+    "tables": [
+      {
+        "rows": [
+          ["CO.", "FILE", "DEPT.", "CLOCK", "NUMBER"],
+          ["ABC", "126543", "123456", "12345", "00000000"]
+        ]
+      },
+      {
+        "rows": [
+          ["Period ending:", "7/18/2008"],
+          ["Pay date:", "7/25/2008"]
+        ]
+      },
+      {
+        "rows": [
+          ["Earnings", "rate", "hours", "this period", "year to date"],
+          ["Regular", "10.00", "32.00", "320.00", "16,640.00"],
+          ["Overtime", "15.00", "1.00", "15.00", "780.00"],
+          ["Holiday", "10.00", "8.00", "80.00", "4,160.00"],
+          ["Tuition", "", "", "37.43*", "1,946.80"],
+          ["", "Gross", "Pay", "$ 452.43", "23,526.80"]
+        ]
+      },
+      {
+        "rows": [
+          ["", "", ""],
+          ["Information", "this period", "total to date"],
+          ["Group Term Life", "0.51", "27.00"],
+          ["Loan Amt Paid", "", "840.00"],
+          ["Vac Hrs", "", "40.00"],
+          ["Sick Hrs", "", "16.00"],
+          ["Title", "Operator", ""]
+        ]
+      },
+      {
+        "rows": [
+          ["Deductions", "Statutory", "", ""],
+          ["", "Federal Income Tax", "-40.60", "2,111.20"],
+          ["", "Social Security Tax", "-28.05", "1,458.60"],
+          ["", "Medicare Tax", "-6.56", "341.12"],
+          ["", "NY State Income Tax", "-8.43", "438.36"],
+          ["", "NYC Income Tax", "-5.94", "308.88"],
+          ["", "NY SUI/SDI Tax", "-0.60", "31.20"],
+          ["", "Other Bond", "-5.00", "100.00"],
+          ["", "401(k)", "-28.85*", "1,500.20"],
+          ["", "Stock Plan", "-15.00", "150.00"],
+          ["", "Life Insurance", "-5.00", "50.00"],
+          ["", "Loan", "-30.00", "150.00"],
+          ["", "Adjustment", "", ""],
+          ["", "Life Insurance", "+ 13.50", ""],
+          ["", "Net Pay", "$291.90", ""]
+        ]
+      },
+      {
+        "rows": [
+          ["Payroll check number:", "0000000000"],
+          ["Pay date:", "7/25/2008"],
+          ["Social Security No.", "987-65-4321"]
+        ]
+      },
+      {
+        "rows": [
+          ["Pay to the order of:", "JOHN STILES", ""],
+          [
+            "This amount:",
+            "TWO HUNDRED NINETY-ONE AND 90/100 DOLLARS",
+            "$291.90"
+          ]
+        ]
+      }
+    ],
+    "forms": [
+      {
+        "name": "AUTHORIZED SIGNATURE",
+        "value": "Authorized"
+      },
+      {
+        "name": "Pay date:",
+        "value": "7/25/2008"
+      },
+      {
+        "name": "Social Security No.",
+        "value": "987-65-4321"
+      },
+      {
+        "name": "This amount:",
+        "value": "$291.90"
+      },
+      {
+        "name": "FILE",
+        "value": "126543"
+      },
+      {
+        "name": "Period ending:",
+        "value": "7/18/2008"
+      },
+      {
+        "name": "CO.",
+        "value": "ABC"
+      },
+      {
+        "name": "Pay to the order of:",
+        "value": "JOHN STILES"
+      },
+      {
+        "name": "State:",
+        "value": "2"
+      },
+      {
+        "name": "NUMBER",
+        "value": "00000000"
+      },
+      {
+        "name": "Local:",
+        "value": "2"
+      },
+      {
+        "name": "Pay date:",
+        "value": "7/25/2008"
+      },
+      {
+        "name": "Social Security Number:",
+        "value": "987-65-4321"
+      },
+      {
+        "name": "CLOCK",
+        "value": "12345"
+      },
+      {
+        "name": "DEPT.",
+        "value": "123456"
+      },
+      {
+        "name": "Federal:",
+        "value": "3. $25 Additional Tax"
+      },
+      {
+        "name": "Your federal wages this period are",
+        "value": "$386.15"
+      },
+      {
+        "name": "Payroll check number:",
+        "value": "0000000000"
+      },
+      {
+        "name": "Taxable Marital Status:",
+        "value": "Married"
+      },
+      {
+        "name": "Title",
+        "value": "Operator"
+      },
+      {
+        "name": "Net Pay",
+        "value": "$291.90"
+      },
+      {
+        "name": "Gross Pay",
+        "value": "$ 452.43"
+      },
+      {
+        "name": "BANK NAME STREET ADDRESS CITY STATE ZIP",
+        "value": "SAMPLE NON-NEGOTIABLE VOID VOID VOID"
+      },
+      {
+        "name": "TWO HUNDRED NINETY-ONE AND 90/100 DOLLARS",
+        "value": ""
+      },
+      {
+        "name": "PER HOUR",
+        "value": "TO $10.00"
+      },
+      {
+        "name": "JOHN STILES",
+        "value": "101 MAIN STREET ANYTOWN, USA 12345"
+      },
+      {
+        "name": "ANY COMPANY CORP.",
+        "value": "475 ANY AVENUE ANYTOWN USA 10101"
+      },
+      {
+        "name": "Life Insurance",
+        "value": "+ 13.50"
+      },
+      {
+        "name": "VOID AFTER 90 DAYS",
+        "value": "Signature"
+      },
+      {
+        "name": "HOURLY RATE HAS BEEN CHANGED FROM",
+        "value": "$8.00"
+      },
+      {
+        "name": "total to date",
+        "value": "27.00"
+      },
+      {
+        "name": "Sick Hrs",
+        "value": "16.00"
+      },
+      {
+        "name": "Loan Amt Paid",
+        "value": "840.00"
+      },
+      {
+        "name": "Vac Hrs",
+        "value": "40.00"
+      }
+    ]
+  }
+}

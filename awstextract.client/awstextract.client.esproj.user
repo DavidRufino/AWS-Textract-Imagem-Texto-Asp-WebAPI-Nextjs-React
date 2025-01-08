@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>LaunchJsonDebugger</DebuggerFlavor>
+    <LaunchJsonTarget>{
+  "name": "VS 2022 Next.js: debug (Chrome)",
+  "type": "chrome",
+  "request": "launch",
+  "url": "http://localhost:3000",
+  "webRoot": "E:\\Users\\David Rufino\\DIO\\Análise Imagens e Texto com IA na AWS\\4.Project Imagem em Texto com AWS Textract\\AWSTextract.API\\awstextract.client"
+}</LaunchJsonTarget>
+  </PropertyGroup>
+</Project>
