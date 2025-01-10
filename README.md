@@ -24,7 +24,6 @@ Este projeto extrai texto de imagens, utilizando a API AWS Textract. O projeto f
 - **Outros**:
   - Docker (não necessario)
   - AWS SDK (para interagir com o AWS Textract)
-  - Jest/Testing Library (se aplicável para testes de frontend)
 
 ## Estrutura do Projeto
 
